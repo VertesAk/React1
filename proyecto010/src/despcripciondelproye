@@ -1,0 +1,17 @@
+Confeccionar una aplicación que recupere una respuesta en JSON de la dirección:
+
+https://scratchya.com.ar/react/datos.php
+La estructura del archivo JSON es:
+
+[
+  {
+    "codigo": 1,
+    "descripcion": "papas",
+    "precio": 12.33
+  },
+  {
+    "codigo": 2,
+    "descripcion": "manzanas",
+    "precio": 54
+  }
+]
